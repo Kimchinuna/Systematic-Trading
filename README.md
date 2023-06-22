@@ -29,6 +29,7 @@ Basic statistical methods
 
 📚 Libraries Used
 pandas: For data manipulation and analysis
+
 numpy: For mathematical computations
 matplotlib: For data visualization
 yfinance: To fetch financial data
