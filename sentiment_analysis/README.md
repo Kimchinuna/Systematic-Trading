@@ -1,4 +1,4 @@
-📚 Sentiment Analysis Project: Leveraging VADER & News API
+# 📚 Sentiment Analysis Project: Leveraging VADER & News API
 
 This project is a comprehensive exploration of Natural Language Processing (NLP) with a focus on sentiment analysis. 
 By using Python, the VADER Sentiment Analysis tool, and the News API, we're able to efficiently scrape, process, and analyze news data to extract sentiment insights.
