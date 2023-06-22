@@ -28,10 +28,15 @@ Financial markets and trading concepts
 Basic statistical methods
 
 📚 Libraries Used
+
 pandas: For data manipulation and analysis
 
 numpy: For mathematical computations
+
 matplotlib: For data visualization
+
 yfinance: To fetch financial data
+
 scikit-learn: For machine learning functionalities
+
 More details about these libraries and their installation can be found in requirements.txt.
